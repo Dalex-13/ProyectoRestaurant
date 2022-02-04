@@ -1,0 +1,8 @@
+#fondo{
+    height: 100vh;
+    overflow-y: hidden;
+    background: linear-gradient(rgba(5,7,12,0.75), rgba(5,7,12,0.75)),
+    url(/assets/imagenes/restaurante.jpg) no-repeat center center fixed;
+    background-size: cover;
+  }
+  
